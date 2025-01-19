@@ -1,0 +1,16 @@
+body {
+    font-family: Inter,  sans-serif; 
+    background-color: #000000; 
+    color: #D6FF6B; 
+}
+h1 {
+    color: #5988FF; 
+    font-size: 32px; 
+    font-family: Georgia, serif;
+}
+
+h2 {
+    color: #FD98FB; 
+    font-size: 28px; 
+    font-family: Georgia, serif;
+}
